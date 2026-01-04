@@ -2,8 +2,9 @@ import React from "react";
 
 export default function ResidencyWorksLanding() {
   // put this at the top of pages/index.jsx
-const FORM_ACTION = "https://formspree.io/f/mrebrlqk"; // your Formspree endpoint
-const CTA_LINK    = "#lead-form";                      // keep users on this page
+const FORM_ACTION = "https://formspree.io/f/mrebrlqk";
+const CTA_LINK    = "#lead-form";
+
 
 
 
