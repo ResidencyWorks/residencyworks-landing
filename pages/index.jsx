@@ -1,8 +1,11 @@
 import React from "react";
 
 export default function ResidencyWorksLanding() {
-  const CTA_LINK = "https://YOUR_STARTER_KIT_OR_WAITLIST_LINK";
-  const FORM_ACTION = "https://YOUR_TALLY_OR_TYPEFORM_ENDPOINT";
+  // put this at the top of pages/index.jsx
+const FORM_ACTION = "https://formspree.io/f/mrebrlqk"; // your Formspree endpoint
+const CTA_LINK    = "#lead-form";                      // keep users on this page
+
+
 
   const C = {
     primaryBlue: "#1F6AE1",
